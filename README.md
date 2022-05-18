@@ -1,6 +1,6 @@
 # PDF files for causal inference lectures
 
-This repository contains lecture notes and example sheets for a Master/PhD level course on causal inference. They were recently used in a [Part III course at Unviersity of Cambridge](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2020/).
+This repository contains lecture notes and example sheets for a Master/PhD level course on causal inference. They were recently used in a [Part III course at Unviersity of Cambridge](http://www.statslab.cam.ac.uk/~qz280/teaching/causal-2021/).
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
